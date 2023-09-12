@@ -1,0 +1,45 @@
+/* All common css file  */
+*{
+    margin: 0%;
+    padding: 0;
+}
+/* All common css file  */
+.box{
+    height: 600px;
+    width: 800px;
+    background-color: aqua;
+
+}
+.box{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.row1{
+    height: 200px;
+    width: 800px;
+    background-color: blue;
+
+}
+.row2{
+    height: 200px;
+    width: 800px;
+    background-color: blueviolet;
+}
+.row3{
+    height: 200px;
+    width: 800px;
+    background-color: brown;
+}
+.collam{
+    height: 200px;
+    width: 400px;
+    background-color: brown;
+    w
+}
+.row{
+    height: 100px;
+    width: 400px;
+    
+    
+    
+}
